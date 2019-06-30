@@ -6,7 +6,6 @@ padding-top: 10px;
 }
 .content{
     grid-area: content;
-    s
     height: 100%;
     background-size: cover;
     background-position: center;
